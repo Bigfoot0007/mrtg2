@@ -1,4 +1,4 @@
-# mrtg2
+# mskg : Multi System Key Grapher
 
 MRTG is good tool to monitor network IO. In many cases, we use MRTG to monitor CPU,MEM,Disk,Application etc. use some scripts to replace the SNMP trap string.
 
