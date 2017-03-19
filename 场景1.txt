@@ -1,0 +1,25 @@
+
+
+配置文件：
+
+[CPU]
+TITILE=CPU
+CMD=/bin/getcpuusage
+Y=Usage(%)
+
+
+[MEM]
+TITILE=Memory
+CMD=/bin/getmemory
+Y1=Physical Total
+Y2=Physical Usaged
+Y3=Total Swap
+Y4=Swap Used
+Y5=Usage(%)
+
+[THREAD1]
+TITILE=ibmslapd - tamldap
+CMD=/get/processuseage
+
+
+
