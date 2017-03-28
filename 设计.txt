@@ -49,3 +49,10 @@ BaseLine2_Name=Physical Memory   # 第二个指标名称,默认为"BaseLine2_Nam
 rightpercent=yes   # 百分比是否显示（默认不显示）
 
    
+   
+   在设计是需要考虑下面2中特殊情况。
+   
+   1. 像Network IO，CPU的/proc/stat一样，拿的值是一个累加值。那么mskg需要自己计算这个时间间隔的平均值。
+   
+   
+   
