@@ -1,0 +1,6 @@
+
+need the following RPM.
+
+perl-JSON.noarch
+perl-GD
+
